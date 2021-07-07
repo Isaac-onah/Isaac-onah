@@ -48,7 +48,7 @@
             <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
                             src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
                 </td>
-            <td><a href="#"><img align="left" alt="Dart" height="28px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/dart/dart.png" /></a>
+            <td><a href="#"><img align="left" alt="Dart" width="20px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/dart/dart.png" /></a>
             </td>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
@@ -84,7 +84,7 @@
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
             <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" height="28px"
                         src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
-            <td><a href="#"><img align="left" alt="Git" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
+            <td><a href="#"><img align="left" alt="Git" title="Git" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
             </td>
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
