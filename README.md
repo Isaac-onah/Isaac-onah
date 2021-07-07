@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />][reactplaylist]
-[<img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/dart/dart.png" />][webdevplaylist]
+[][webdevplaylist]
 [<img alt="NodeJS" title="NodeJS" height="28px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
 [<img alt="Java" title="Java" height="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" />][webdevplaylist]
 [<img alt="Kotlin" title="Kotlin" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" />][webdevplaylist]
@@ -45,6 +45,11 @@
 <table>
     <tbody>
         <tr>
+            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
+                            src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
+                </td>
+            <td><a href="#"><img align="left" alt="Dart" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/dart/dart.png" /></a>
+            </td>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
             </td>
@@ -68,9 +73,6 @@
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></td>
             <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
-            </td>
-            <td><a href="#"><img alt="Flutter" title="Flutter" height="28px"
-                        src="https://img.icons8.com/color/48/000000/flutter.png" /></a>
             </td>
         </tr>
         <tr>
