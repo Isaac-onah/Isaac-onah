@@ -1,26 +1,25 @@
 ### Hi there, I'm Onah Isaac - [Aiyzihk][website] 👋
 
 
-## I'm a Developer, and Teacher!!
+## I'm a Mobile UI/UX Design and App Developer!!
 
-- 🔭 I just launched my first Article Series: [Become A Flutter Developer with ease!][course]!
+- 🔭 I just launched my first Article Series: [Become A Flutter Developer with ease!]!
 - 🌱 I’m currently learning everything Ui/Ux Design and Development 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers and UI/UX designers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw wireframes and skate / mentor
 
 ### Connect with me:
 
 [<img align="left" alt="meet_Aiyzihk.com" width="22px" color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aiyzihk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Aiyzihk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aiyzihk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aiyzihk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Aiyzihk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
 ### Languages and Tools:
-<br />
+
 <table>
     <tbody>
         <tr>
@@ -83,13 +82,11 @@
 <br />
 <br />
 
-
+<!-- 
+work on all your linking address -->
 [website]: https://Aiyzihk.com
-[twitter]: https://twitter.com/Aiyzihk
 [youtube]: https://youtube.com/Aiyzihk
-[instagram]: https://instagram.com/Aiyzihk
+[instagram]:https://www.instagram.com/p/CMUbGr5Adky/?utm_source=ig_web_copy_link
 [linkedin]: https://linkedin.com/in/isaaconah
-[webdevplaylist]: https://www.youtube.com/watch?v=J_Clau1bYco&list=PLcXDn_VTMwq2bceZG9jFJajb-KGoB2MvL&index=1
-[jsplaylist]: https://www.youtube.com/watch?v=J_Clau1bYco&list=PLcXDn_VTMwq2bceZG9jFJajb-KGoB2MvL&index=1
-[cssplaylist]: https://www.youtube.com/watch?v=J_Clau1bYco&list=PLcXDn_VTMwq2bceZG9jFJajb-KGoB2MvL&index=1
-[reactplaylist]: https://www.youtube.com/watch?v=J_Clau1bYco&list=PLcXDn_VTMwq2bceZG9jFJajb-KGoB2MvL&index=1
+<!-- [Mobdevplaylist]: https://www.youtube.com/watch?v=J_Clau1bYco&list=PLcXDn_VTMwq2bceZG9jFJajb-KGoB2MvL&index=1 -->
+
