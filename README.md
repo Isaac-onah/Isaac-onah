@@ -8,7 +8,7 @@
 - 🔭 I just launched my first Article Series: [Become A Flutter Developer with ease!]!
 - 👯 I’m looking to collaborate with other developers and UI/UX designers
 - 🥅 2022 Goals: Become a senior mobile app developer, Complete 3 wonderful personal projects, Contribute more to Open Source projects and write articles
-- ⚡ Hobbies: I love to draw wireframes and skate / mentor
+- ⚡ Hobbies: I love to draw wireframes and skate /mentor
 
 ### Connect with me:
 
