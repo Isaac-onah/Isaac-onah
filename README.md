@@ -75,9 +75,10 @@
 <br />
 <br />
 
+<!--In progress -->
+[website]: https://Aiyzihk.com
 <!-- 
 work on all your linking address -->
-[website]: https://Aiyzihk.com
 [youtube]: https://youtube.com/Aiyzihk
 [instagram]:https://www.instagram.com/p/CMUbGr5Adky/?utm_source=ig_web_copy_link
 [linkedin]: https://linkedin.com/in/isaaconah
