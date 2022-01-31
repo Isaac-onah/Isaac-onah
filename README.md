@@ -1,7 +1,7 @@
 ### Hi there, I'm Onah Isaac - [Aiyzihk][website] 👋
 
 
-## I'm a Mobile app UI/UX Design and App Developer!!
+## I'm a Mobile app UI/UX Design and Developer!!
 
 
 - 🌱 I’m currently learning everything Ui/Ux Design and Development(Flutter/ dart and getx) and some backend Technologies 🤣
