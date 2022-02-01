@@ -1,4 +1,4 @@
-### Hi there, I'm Onah Isaac - [Aiyzihk][website] 👋
+### Hello world, I'm Onah Isaac - [Aiyzihk][website] 👋
 
 
 ## I'm a Mobile app UI/UX Design and Developer!!
