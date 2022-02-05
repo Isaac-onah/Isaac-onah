@@ -76,7 +76,7 @@
 <br />
 
 <!--In progress -->
-[website]: https://Aiyzihk.com
+ https://Aiyzihk.com
 <!-- 
 work on all your linking address -->
 [youtube]: https://youtube.com/Aiyzihk
