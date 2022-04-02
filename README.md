@@ -82,5 +82,5 @@ work on all your linking address -->
 [youtube]: https://youtube.com/Aiyzihk
 [instagram]:https://www.instagram.com/p/CMUbGr5Adky/?utm_source=ig_web_copy_link
 [linkedin]: https://linkedin.com/in/isaaconah
-<!-- [Mobdevplaylist]: https://www.youtube.com/watch?v=J_Clau1bYco&list=PLcXDn_VTMwq2bceZG9jFJajb-KGoB2MvL&index=1 -->
+
 
