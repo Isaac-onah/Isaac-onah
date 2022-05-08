@@ -1,4 +1,4 @@
-### Hello world, I'm Onah Isaac - [Aiyzihk][website] 👋
+### Hello world, I'm Onah Isaac - [Aiyzihk] 👋
 
 
 ## I'm a Mobile app developer and UI/UX Designer!!
@@ -75,7 +75,7 @@
 <br />
 <br />
 <!--In progress -->
-[website]:https://Aiyzihk.com
+[Aiyzihk]:https://Aiyzihk.com
 <!-- 
 work on all your linking address -->
 [youtube]: https://youtube.com/Aiyzihk
