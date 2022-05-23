@@ -10,11 +10,9 @@
 - 🥅 2022 Goals: Become a senior mobile app developer, Complete 3 wonderful personal projects, Contribute more to Open Source projects and write articles
 - ⚡ Hobbies: I love designing and developing mobile apps skate /mentor
 
-### Connect with me:
-
-[<img align="left" alt="meet_Aiyzihk.com" width="22px" color="white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Aiyzihk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Aiyzihk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" 
+### Connect with me
+<img align="left" alt="Aiyzihk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="Aiyzihk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 
 <br />
 
