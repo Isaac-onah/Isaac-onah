@@ -72,7 +72,7 @@
 <br />
 <br />
 
--[Aiyzihk](https://Aiyzihk.com)
+-[meet Aiyzihk](https://Aiyzihk.com)
 
 -[youtube](https://youtube.com/Aiyzihk)
 
