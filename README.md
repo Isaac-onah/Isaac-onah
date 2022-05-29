@@ -3,7 +3,6 @@
 
 ## I'm a Mobile app developer and UI/UX Designer!!
 
-
 - 🌱 I’m currently learning everything Ui/Ux Design and Development(Flutter/ dart and getx, Bloc) and backend Technologies 🤣
 - 🔭 I just launched my first Article Series: [Become A Flutter Developer with ease!]!
 - 👯 I’m looking to collaborate with other developers and UI/UX designers
