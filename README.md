@@ -12,8 +12,7 @@ As a Mobile software engineer, I enjoy using my obsessive attention to detail, m
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I regulary write articles on [medium](https://gapur-kassym.medium.com);
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: isaaconah991@gmail.com / iumeha@yahoo.com;
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume]
-###(//resumelink here).
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://isaaconah.com).
 - ⚡ Hobbies: I love designing and developing mobile apps skate /mentor
 
 ### Connect with me
