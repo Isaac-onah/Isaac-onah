@@ -1,6 +1,5 @@
 ### Hi, I'm Onah Isaac Onyema [Aiyzihk] 👋
 
-
 ## I'm a Mobile app developer and UI/UX Designer!!
 
 - 🌱 I’m currently learning everything Ui/Ux Design and Development(Flutter/ dart and getx, Bloc, firebase) and backend Technologies 🤣
@@ -10,8 +9,13 @@
 - ⚡ Hobbies: I love designing and developing mobile apps skate /mentor
 
 ### Connect with me
-<img align="left" alt="Aiyzihk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="Aiyzihk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gapur-kassym)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://gkassym.netlify.app)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/GKassym)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gkassym/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://gapur-kassym.medium.com/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/GKassym)
 
 <br />
 
@@ -68,7 +72,3 @@
 </table>
 <br />
 <br />
-
-
-
-
