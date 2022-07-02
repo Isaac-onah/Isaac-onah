@@ -1,6 +1,13 @@
 ### Hi, I'm Onah Isaac Onyema [Aiyzihk] 👋
 
-## I'm a Mobile app developer and UI/UX Designer!!
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
+
+I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+
+As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+  
 
 - 🌱 I’m currently learning everything Ui/Ux Design and Development(Flutter/ dart and getx, Bloc, firebase) and backend Technologies 🤣
 - 🔭 I just launched my first Article Series: [Become A Flutter Developer with ease!]!
