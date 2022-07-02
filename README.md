@@ -1,4 +1,4 @@
-### Hi, I'm Onah Isaac Onyema [Aiyzihk] 👋
+### Hi, I'm Onah Isaac -Aiyzihk 👋
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=Gapur.Gapur)
 
