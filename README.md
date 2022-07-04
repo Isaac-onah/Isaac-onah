@@ -26,8 +26,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 )
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/aiyzihk)
 
-<br />
-
 ### Languages and Tools:
 
 <table>
