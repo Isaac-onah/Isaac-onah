@@ -2,9 +2,9 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=45091852)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
+I'm a Mobile software engineer enthusiastic about front-end/back-end systems development, integrations, workflows, and automation.
 
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+As a Mobile software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
   
