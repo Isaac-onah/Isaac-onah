@@ -52,7 +52,7 @@ As a Mobile software engineer, I enjoy using my obsessive attention to detail, m
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
             <td><a href="#"><img alt="MySQL" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /></a></td>
-            <td><a href="#"><img alt="GraphQL" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" /></a></td>
+            
         </tr>
         <tr>
             <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
