@@ -11,7 +11,7 @@ As a Mobile software engineer, I enjoy using my obsessive attention to detail, m
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: isaaconah991@gmail.com / iumeha@yahoo.com;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [Resume](https://isaac-onah.github.io/).
 - ⚡ Hobbies: I love designing and developing mobile apps skate /mentor
-- 
+
 ### Connect with me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/isaaconah/)
