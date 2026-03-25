@@ -42,9 +42,6 @@ As a Mobile software engineer, I enjoy using my obsessive attention to detail, m
             <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
-            <td><a href="#"><img alt="PHP" title="PHP" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" /></a>
-            </td>
             <td><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a>
             </td>
@@ -53,8 +50,6 @@ As a Mobile software engineer, I enjoy using my obsessive attention to detail, m
         <tr>
             <td><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></td>
-            <td><a href="#"><img alt="Visual Studio" title="Visual Studio Code" width="20px" 
-                        src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" /></a></td>
             <td><a href="#"><img alt="Figma" title="Figma" width="20px" 
                         src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" /></a></td>
             <td><a href="#"><img alt="Git" title="Git" height="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
@@ -62,8 +57,6 @@ As a Mobile software engineer, I enjoy using my obsessive attention to detail, m
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
-            <td><a href="#"><img alt="Heroku" title="Heroku" height="28px"
-                        src="https://img.icons8.com/color/48/000000/heroku.png" /></a></td>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a></td>
         </tr>
